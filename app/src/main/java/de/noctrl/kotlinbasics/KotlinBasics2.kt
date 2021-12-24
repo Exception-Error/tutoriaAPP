@@ -25,6 +25,4 @@ fun main() {
     nullAge!!.compareTo(4)
     println(age)
 
-
-
 }

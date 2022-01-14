@@ -1,7 +1,6 @@
 package de.noctrl.kotlinbasics
 
 fun main() {
-
     //NULLABLES
     println("NULLABLES------------------------------------------------------------------------------")
     var name: String = "Talha"

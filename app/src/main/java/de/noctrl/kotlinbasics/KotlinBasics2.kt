@@ -1,5 +1,5 @@
 package de.noctrl.kotlinbasics
-
+@SuppressWarnings
 fun main() {
     //NULLABLES
     println("NULLABLES------------------------------------------------------------------------------")
